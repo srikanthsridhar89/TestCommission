@@ -6,7 +6,7 @@ public class RectangleArea {
 		int bre = 5;
 		int area = len * bre;
 		System.out.println("Area of rectangle is "+area);
-		
+		System.out.println("test debug");
 		
 	}
 
